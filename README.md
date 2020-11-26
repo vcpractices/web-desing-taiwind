@@ -1,4 +1,4 @@
-# web-desing-
+# web-desing-tailwind
 
 enlaces utilizados en el projecto 
 
